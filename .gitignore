@@ -1,0 +1,20 @@
+# Compiled objects
+*.o
+server
+client
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Build
+build/
+dist/
